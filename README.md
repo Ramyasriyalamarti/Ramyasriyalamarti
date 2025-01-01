@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramyasriyalamarti" alt="ramyasriyalamarti" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [my github repository](my github repository)
 
