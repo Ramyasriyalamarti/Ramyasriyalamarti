@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **ML**
 
+- 👯 I’m looking to contribute to Open-source projects
+
 - 📫 How to reach me **ramyasriyalamarti@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
