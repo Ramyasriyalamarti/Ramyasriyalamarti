@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [my github repository](my github repository)
+- 👨‍💻 A Passionate Computer Science Student
 
 - 💬 Ask me about **ML**
 
