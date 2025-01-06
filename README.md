@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [my github repository](my github repository)
+- 👨‍💻 Computer Science Student
 
 - 💬 Ask me about **ML**
 
