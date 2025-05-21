@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyasriyalamarti&label=Profile%20views&color=0e75b6&style=flat" alt="ramyasriyalamarti" /> </p>
 
-- 🌱 I’m currently learning **Selenium Automation**
+- 🌱 I’m currently learning **Selenium Automation with Java**
 
 - 👨‍💻 A Passionate Computer Science Student
 
