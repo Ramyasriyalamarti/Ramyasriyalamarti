@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **machine learning**
 
-- 👨‍💻 All of my projects are available at [github.com/Ramyasriyalamarti](github.com/Ramyasriyalamarti)
+- 👨‍💻 All of my projects are available at [github.com/Ramyasriyalamarti]
 
 - 💬 Ask me about **java,python**
 
